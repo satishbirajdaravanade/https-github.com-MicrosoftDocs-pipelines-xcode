@@ -192,7 +192,6 @@
 				TargetAttributes = {
 					D24408D41F6873A700D58AC7 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 7WDBP722LA;
 						ProvisioningStyle = Automatic;
 					};
 					D24408E81F6873A700D58AC7 = {
@@ -414,10 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7WDBP722LA;
 				INFOPLIST_FILE = iOSHelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SBProjects.iOSHelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.samples.adventworks.iOSHelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -427,10 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7WDBP722LA;
 				INFOPLIST_FILE = iOSHelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SBProjects.iOSHelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.samples.adventworks.iOSHelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -509,7 +506,6 @@
 				D24408FF1F6873A700D58AC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		D24409001F6873A700D58AC7 /* Build configuration list for PBXNativeTarget "iOSHelloWorldTests" */ = {
 			isa = XCConfigurationList;
@@ -518,7 +514,6 @@
 				D24409021F6873A700D58AC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		D24409031F6873A700D58AC7 /* Build configuration list for PBXNativeTarget "iOSHelloWorldUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,7 +522,6 @@
 				D24409051F6873A700D58AC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
