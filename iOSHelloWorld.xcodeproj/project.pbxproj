@@ -419,7 +419,7 @@
 				DEVELOPMENT_TEAM = KH25Z5QAF4;
 				INFOPLIST_FILE = iOSHelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Avanade.iOSHelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Avanade.iOSHelloWorld01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
@@ -435,7 +435,7 @@
 				DEVELOPMENT_TEAM = KH25Z5QAF4;
 				INFOPLIST_FILE = iOSHelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Avanade.iOSHelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Avanade.iOSHelloWorld01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
