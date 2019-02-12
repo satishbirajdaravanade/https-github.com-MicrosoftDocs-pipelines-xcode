@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+        <key>provisioningProfiles</key>
+        <dict>
+            <key>com.Avanade.iOSHelloWorld01</key>
+            <string>cdec2423-ea74-4ed9-9fa2-d8cdc35cff96</string>
+        </dict>
+        <key>signingCertificate</key>
+        <string>iOS Distribution</string>
+        <key>signingStyle</key>
+        <string>manual</string>
+        <key>method</key>
+        <string>app-store</string>
+        <key>teamID</key>
+        <string>KH25Z5QAF4</string>
+    </dict>
+    </plist>
